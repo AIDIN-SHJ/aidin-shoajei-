@@ -1,0 +1,54 @@
+div .head {
+    color: rgb(6, 231, 25);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    float: left;
+    margin-left: 606px;
+}
+div .user {
+    font-size: 20px;
+    background-color: rgb(44, 39, 39);
+    float: left;
+    margin-left: 541px;
+    border-radius: 4px;
+    height: 40px;
+}
+div .pas {
+    font-size: 20px;
+    background-color: rgb(44, 39, 39);
+    margin-top: 30px ;
+    float: left;
+    margin-left: 541px;
+    border-radius: 4px;
+    height: 40px;
+}
+div .frg-pas {
+    color: rgb(128, 123, 123);
+    float: left;
+    margin-left: 542px;
+    margin-top: 20px;
+}
+div .sgn-up{
+    color: rgb(6, 231, 25);
+    margin-right: 560px;
+    margin-top: 20px;
+    float: right;
+}
+div .lgn-bttn{
+    color: black;
+    background-color:  rgb(6, 231, 25);
+    margin-top: 20px;
+    font-size: 25px;
+    width: 251px;
+    float: left;
+    margin-left: 541px;
+    border-radius: 4px;
+    height: 45px;
+}
+.box {
+    width: 8cm;
+    height: 12cm;
+    background-color: rgb(12, 12, 12);
+    margin: 30px 0 0 515px;
+    border-radius: 4px;
+}
